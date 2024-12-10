@@ -12,9 +12,9 @@
   </a>
 
   <p align="center">
-   Landing page do jogo God of War Ragnarok
+   Projeto do game detona ralph do bootcamp dio
     <br />
-    <a href="https://github.com/Mtheuxa/God-Of-War-Ragnarok"><strong>Explore o documento »</strong></a>
+    <a href="https://github.com/Mtheuxa/Detona-Ralph"><strong>Explore o documento »</strong></a>
     <br />
     <br />
     <img src="https://img.shields.io/github/followers/Mtheuxa?style=social" />
@@ -23,7 +23,7 @@
 
 ## 💻 Sobre o projeto
 
-Landing page do jogo God of War Ragnarok feita durante um evento promovido pela [Alura][Alura], cujo objetivo era desenvolver um projeto prático utilizando os três pilares do Front-end.
+Game do Detona Ralp feita durante um bootcamp promovido pela [DIO][Dio], cujo objetivo era desenvolver um projeto prático utilizando os três pilares do Front-end.
 
 ## 🔎 Preview do projeto
 
@@ -33,10 +33,7 @@ Landing page do jogo God of War Ragnarok feita durante um evento promovido pela 
 
 As seguintes ferramentas foram utilizadas no desenvolimento do projeto.
 
-* [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-* [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-* [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-
+* [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 ## 📝 Licença
 
@@ -46,7 +43,7 @@ Esse projeto está sob a licença [GNU][license-url]. Veja o arquivo LICENSE par
 
 <!-- LINKS E IMAGENS -->
 
-[linkedin]: https://www.linkedin.com/in/matheus-araujo-26b01131a/
+[linkedin]: https://www.linkedin.com/in/matheuspaulucci/
 
 [preview]: ./img/preview.png
 
@@ -55,7 +52,7 @@ Esse projeto está sob a licença [GNU][license-url]. Veja o arquivo LICENSE par
 
 [version-shield]: https://img.shields.io/badge/VERSION-3.0.1-dc3545?style=for-the-badge
 
-[Alura]: https://www.alura.com.br/cursos-online-front-end
+[Dio]: https://www.dio.me
 
 [html]: https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=orange
 [html-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
