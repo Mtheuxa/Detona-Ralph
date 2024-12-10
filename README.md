@@ -45,7 +45,7 @@ Esse projeto está sob a licença [GNU][license-url]. Veja o arquivo LICENSE par
 
 [linkedin]: https://www.linkedin.com/in/matheuspaulucci/
 
-[preview]: ./img/preview.png
+[preview]: src/images/Preview.png
 
 [license-shield]: https://img.shields.io/badge/LICENSE-GNU-green?style=for-the-badge
 [license-url]: ./LICENSE
